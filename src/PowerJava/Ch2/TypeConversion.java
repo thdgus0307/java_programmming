@@ -1,4 +1,4 @@
-package PowerJava;
+package PowerJava.Ch2;
 
 public class TypeConversion {
     public static void main(String[] args) {

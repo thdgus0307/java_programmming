@@ -1,4 +1,4 @@
-package PowerJava;
+package PowerJava.Ch2;
 
 public class AreaTest {
     public static void main(String args[]){

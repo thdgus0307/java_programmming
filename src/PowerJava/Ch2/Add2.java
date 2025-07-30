@@ -1,4 +1,4 @@
-package PowerJava;
+package PowerJava.Ch2;
 import java.util.Scanner;
 public class Add2 {
     public static void main(String[] args) {

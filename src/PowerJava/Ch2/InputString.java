@@ -1,4 +1,4 @@
-package PowerJava;
+package PowerJava.Ch2;
 
 import java.util.Scanner;
 
